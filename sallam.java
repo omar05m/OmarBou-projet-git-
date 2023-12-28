@@ -4,7 +4,8 @@ public class sallam {
 
 	
 
-	System.out.print("sallam alikom");
+	System.out.println("sallam alikom");
+	System.out.print("hello");
 
 	}
 
